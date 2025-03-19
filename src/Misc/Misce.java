@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class Lab003 {
+public class Misce {
     public static void main(String[] args){
         WebDriver driver = new ChromeDriver();
         driver.get("https://amityonline.com/amity/home/eligibility?f=5245045");
